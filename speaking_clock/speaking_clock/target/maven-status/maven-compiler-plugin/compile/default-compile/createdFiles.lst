@@ -1,0 +1,8 @@
+speaking_clock\speaking_clock\service\SpeakingClockImpl.class
+speaking_clock\speaking_clock\swagger\SwaggerConfiguration.class
+speaking_clock\speaking_clock\service\SpeakingClocking.class
+speaking_clock\speaking_clock\service\TImeWordsConverter.class
+speaking_clock\speaking_clock\controller\SpeakingClockController.class
+speaking_clock\speaking_clock\errorcodes\ErrorCodes.class
+speaking_clock\speaking_clock\SpeakingClockApplication.class
+speaking_clock\speaking_clock\swagger\EnableSwagger.class
